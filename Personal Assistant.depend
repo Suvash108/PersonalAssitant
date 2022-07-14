@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1657776823 source:c:\users\legion\onedrive\desktop\dsa\personal assistant\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+
